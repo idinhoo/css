@@ -1700,6 +1700,8 @@ a.but_woman:hover {
 	transition: all 0.7s ease;
 	width: 100%;
 	border-radius: 4px;
+}
+.but_full2 strong:hover {
 	color:#ffffff;
 }
 .but_full2 .butprogress a {
