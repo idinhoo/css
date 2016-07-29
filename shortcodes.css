@@ -1654,6 +1654,7 @@ a.but_woman:hover {
 	line-height: 70px;
 	font-size: 18px;
 	font-weight: 600;
+	margin: 20px 0px 20px 0px;
 }
 .but_full2 .butprogress {
 	-webkit-transition: all 0.7s ease;
