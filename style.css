@@ -1016,7 +1016,7 @@
 .feature_sec16 .attbox .box {
 	float: left;
 	width: 100.8%;
-	height: 320px;
+	height: 370px !important;
 	background: #fff;
 	border: 1px solid #eee;
 	margin-left: -3px;
